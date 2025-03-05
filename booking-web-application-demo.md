@@ -555,7 +555,8 @@ app.listen(port, () => {
 
 ### บันทึกผลลัพธ์การ PUT เพื่อแก้ไขข้อมูล (ข้อมูล comment จะต้องไม่เป็นค่า null)
 
-![รูปผลลัพธ์การ PUT ข้อมูล](images path/image.png)
+![image](https://github.com/user-attachments/assets/e8c57434-af70-4b8b-9d32-b16b1fe18b81)
+
 
 9. สร้าง request เพื่อ Delete Booking ระบุ Url คือ DELETE: {{baseUrl}}/api/bookings/1
    - Headers: Authorization: Bearer {{token}}
